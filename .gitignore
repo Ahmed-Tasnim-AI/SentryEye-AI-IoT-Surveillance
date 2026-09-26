@@ -1,0 +1,22 @@
+# Sensitive files - never upload
+config.py
+
+# Database and generated data
+*.db
+snapshots/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment (if you use one)
+venv/
+env/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional, personal preference)
+.vscode/
