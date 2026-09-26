@@ -65,9 +65,6 @@ ESP32-CAM connected to an FTDI FT232RL programmer for flashing and power during 
 
 The prototype housing was hand-built using a repurposed eye-drop bottle case and cardboard — a low-cost, zero-waste approach for a working prototype. A production version would use a 3D-printed or injection-molded enclosure for durability and weatherproofing.
 
-## Demo
-
-📹 Watch the full demo video: [add your YouTube link here]
 
 ## Screenshots
 
